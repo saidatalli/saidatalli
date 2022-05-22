@@ -1,4 +1,4 @@
-![saidat alli cover picture](https://github.com/saidatalli/saidatalli/blob/main/saidat%20alli%20cover%20picture.png)
+![saidat alli cover picture](https://github.com/saidatalli/saidatalli/blob/main/saidat_alli_cover.gif)
 
 <!-- <h1 align="center">Hi 👋, I'm Saidat Alli</h1>
 <h3 align="center">A passionate full-stack software engineer from the UK</h3> -->
