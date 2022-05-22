@@ -1,11 +1,11 @@
-![saidat alli cover picture](https://github.com/saidatalli/saidatalli/blob/main/saidat_alli_cover.gif)
+![saidat alli cover picture](https://github.com/saidatalli/saidatalli/blob/main/saidat_alli_software_engineer.gif)
 
 <!-- <h1 align="center">Hi 👋, I'm Saidat Alli</h1>
 <h3 align="center">A passionate full-stack software engineer from the UK</h3> -->
 
 - 🔭 I’m currently working on [taste of africa website](https://tasteofafrica.netlify.app/)
 
-- 🌱 I’m currently learning **sass, react**
+- 🌱 I’m currently learning **node.js, react**
 
 - 👨‍💻 All of my projects are available at [https://saidatalli.netlify.app/](https://saidatalli.netlify.app/)
 
