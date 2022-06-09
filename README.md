@@ -3,13 +3,13 @@
 <!-- <h1 align="center">Hi 👋, I'm Saidat Alli</h1>
 <h3 align="center">A passionate full-stack software engineer from the UK</h3> -->
 
-- 🔭 I’m currently working on [taste of africa website](https://tasteofafrica.netlify.app/)
+- 🔭 I’m currently working on [taste of africa website](https://scientisthub.netlify.app/)
 
-- 🌱 I’m currently learning **node.js, react**
+- 🌱 I’m currently learning **node.js, bootstrap, react**
 
 - 👨‍💻 All of my projects are available at [https://saidatalli.netlify.app/](https://saidatalli.netlify.app/)
 
-- 💬 Ask me about **html, javascript, react**
+- 💬 Ask me about **bootstrap, Sass, javascript,**
 
 - 📫 How to reach me **saidatalli21@gmail.com**
 
