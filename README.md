@@ -3,7 +3,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Saidat Alli</h1>
 <h3 align="center">A passionate full-stack software engineer from the UK</h3> -->
 
-- 🔭 I’m currently working on [taste of africa website](https://scientisthub.netlify.app/)
+- 🔭 I’m currently working on [Scientist Hub website](https://scientisthub.netlify.app/)
 
 - 🌱 I’m currently learning **node.js, bootstrap, react**
 
