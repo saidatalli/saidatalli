@@ -1,7 +1,7 @@
 <!-- ![saidat alli cover picture](https://github.com/saidatalli/saidatalli/blob/main/saidat_alli_software_engineer.gif) -->
 
 <h1 align="center">Hi 👋, I'm Saidat Alli</h1>
-<h3 align="center">A passionate full-stack software engineer based in the UK</h3>
+<h3 align="center">A full-stack software engineer based in the UK</h3>
 
 - 🔭 I’m currently working on [Scientist Hub website](https://scientisthub.netlify.app/)
 
