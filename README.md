@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Scientist Hub website](https://scientisthub.netlify.app/)
 
-- 🌱 I’m currently learning **node.js, bootstrap, react**
+- 🌱 I’m currently learning **tailwindcss and react**
 
 - 👨‍💻 Some of my projects are available at [https://saidatalli.netlify.app/](https://saidatalli.netlify.app/)
 
