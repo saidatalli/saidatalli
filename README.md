@@ -9,7 +9,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://saidatalli.netlify.app/](https://saidatalli.netlify.app/)
 
-- 💬 Ask me about **bootstrap, Sass, javascript**
+- 💬 Ask me about **Sass and Node.js**
 
 - 📫 How to reach me **saidatalli21@gmail.com**
 
