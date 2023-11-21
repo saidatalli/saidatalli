@@ -1,15 +1,15 @@
 <!-- ![saidat alli cover picture](https://github.com/saidatalli/saidatalli/blob/main/saidat_alli_software_engineer.gif) -->
 
 <h1 align="center">Hi 👋, I'm Saidat Alli</h1>
-<h3 align="center">A full-stack software engineer based in the UK</h3>
+<h3 align="center">A full-stack developer based in the UK</h3>
 
-- 🔭 I’m currently working on [Scientist Hub website](https://scientisthub.netlify.app/)
+- 🔭 I’m currently working on [Scientist Hub website](https://scientist-hub.onrender.com)
 
-- 🌱 I’m currently learning **tailwindcss and react**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 Some of my projects are available at [https://saidatalli.netlify.app/](https://saidatalli.netlify.app/)
 
-- 💬 Ask me about **Sass and Node.js**
+- 💬 Ask me about **cool projects**
 
 - 📫 How to reach me **saidatalli21@gmail.com**
 
